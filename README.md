@@ -51,9 +51,10 @@ N is the input size and Q is the number of queries. For problems 2 and 5, the re
 ![Compare the Triplets accepted](screenshots/04-compare-the-triplets.png)
 ![Sparse Arrays accepted](screenshots/05-sparse-arrays.png)
 
-### Badge: 3-star Problem Solving
+### Badges: 2nd and 3rd star
 
-![3-star badge](screenshots/hackerrank-3-star-badge.png)
+![2nd star badge](screenshots/Hackerrank_2nd_star.png)
+![3rd star badge](screenshots/Hackerrank_3rd_star.png)
 
 ## Extra practice problems
 
