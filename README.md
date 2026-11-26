@@ -7,7 +7,7 @@ Portfolio Building, 3rd Semester B.Tech (Computer Science & Engineering)
 | ---------------------- | ------------------------------------------------ |
 | **Name**               | Sahana N                                         |
 | **Language used**      | C                                                |
-| **HackerRank profile** | https://www.hackerrank.com/profile/YOUR_USERNAME |
+| **HackerRank profile** | https://www.hackerrank.com/profile/sahananangadi |
 
 ## About
 
